@@ -93,6 +93,8 @@ function App() {
   const [load, setLoad] = React.useState(false);
   const [open, setOpen] = React.useState(false);
 
+  const apikey = "**********************";
+
   const classes = useStyles();
 
   const handleTabs = (event, newValue) => {
@@ -109,7 +111,7 @@ function App() {
       "headers": {
         "content-type": "application/octet-stream",
         "x-rapidapi-host": "judge0.p.rapidapi.com",
-        "x-rapidapi-key": "ea09ded4b3mshe766af77cf8e6e6p10b6aajsn43f7b640e091",
+        "x-rapidapi-key":apikey,
         "useQueryString": true
       }
     })
@@ -132,7 +134,7 @@ function App() {
       "headers": {
         "content-type": "application/octet-stream",
         "x-rapidapi-host": "judge0.p.rapidapi.com",
-        "x-rapidapi-key": "ea09ded4b3mshe766af77cf8e6e6p10b6aajsn43f7b640e091",
+        "x-rapidapi-key": apikey,
         "useQueryString": true
       }
     })
@@ -191,7 +193,7 @@ function App() {
         "headers": {
           "content-type": "application/json",
           "x-rapidapi-host": "judge0.p.rapidapi.com",
-          "x-rapidapi-key": "ea09ded4b3mshe766af77cf8e6e6p10b6aajsn43f7b640e091",
+          "x-rapidapi-key": apikey,
           "accept": "application/json",
           "useQueryString": true
         }, "data": {
