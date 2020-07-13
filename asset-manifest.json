@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Judge0-ide/static/css/main.4e9684e2.chunk.css",
+    "main.js": "/Judge0-ide/static/js/main.dcd1f808.chunk.js",
+    "main.js.map": "/Judge0-ide/static/js/main.dcd1f808.chunk.js.map",
+    "runtime-main.js": "/Judge0-ide/static/js/runtime-main.674cca47.js",
+    "runtime-main.js.map": "/Judge0-ide/static/js/runtime-main.674cca47.js.map",
+    "static/js/2.bee56b98.chunk.js": "/Judge0-ide/static/js/2.bee56b98.chunk.js",
+    "static/js/2.bee56b98.chunk.js.map": "/Judge0-ide/static/js/2.bee56b98.chunk.js.map",
+    "index.html": "/Judge0-ide/index.html",
+    "precache-manifest.61b3655c11d1be0fe0612945635df022.js": "/Judge0-ide/precache-manifest.61b3655c11d1be0fe0612945635df022.js",
+    "service-worker.js": "/Judge0-ide/service-worker.js",
+    "static/css/main.4e9684e2.chunk.css.map": "/Judge0-ide/static/css/main.4e9684e2.chunk.css.map",
+    "static/js/2.bee56b98.chunk.js.LICENSE.txt": "/Judge0-ide/static/js/2.bee56b98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674cca47.js",
+    "static/js/2.bee56b98.chunk.js",
+    "static/css/main.4e9684e2.chunk.css",
+    "static/js/main.dcd1f808.chunk.js"
+  ]
+}
