@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Judge0-ide/static/css/main.4e9684e2.chunk.css",
-    "main.js": "/Judge0-ide/static/js/main.92d881ae.chunk.js",
-    "main.js.map": "/Judge0-ide/static/js/main.92d881ae.chunk.js.map",
+    "main.js": "/Judge0-ide/static/js/main.7304c73b.chunk.js",
+    "main.js.map": "/Judge0-ide/static/js/main.7304c73b.chunk.js.map",
     "runtime-main.js": "/Judge0-ide/static/js/runtime-main.674cca47.js",
     "runtime-main.js.map": "/Judge0-ide/static/js/runtime-main.674cca47.js.map",
     "static/js/2.bee56b98.chunk.js": "/Judge0-ide/static/js/2.bee56b98.chunk.js",
     "static/js/2.bee56b98.chunk.js.map": "/Judge0-ide/static/js/2.bee56b98.chunk.js.map",
     "index.html": "/Judge0-ide/index.html",
-    "precache-manifest.52918acc71f6ef19135698c5b414a446.js": "/Judge0-ide/precache-manifest.52918acc71f6ef19135698c5b414a446.js",
+    "precache-manifest.64d9267e9f380393b36c44c645b238ba.js": "/Judge0-ide/precache-manifest.64d9267e9f380393b36c44c645b238ba.js",
     "service-worker.js": "/Judge0-ide/service-worker.js",
     "static/css/main.4e9684e2.chunk.css.map": "/Judge0-ide/static/css/main.4e9684e2.chunk.css.map",
     "static/js/2.bee56b98.chunk.js.LICENSE.txt": "/Judge0-ide/static/js/2.bee56b98.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.674cca47.js",
     "static/js/2.bee56b98.chunk.js",
     "static/css/main.4e9684e2.chunk.css",
-    "static/js/main.92d881ae.chunk.js"
+    "static/js/main.7304c73b.chunk.js"
   ]
 }
